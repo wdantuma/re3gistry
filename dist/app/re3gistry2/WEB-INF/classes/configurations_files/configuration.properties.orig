@@ -152,6 +152,7 @@ mail.smtp.host=smtphost
 mail.smtp.port=smtpport
 mail.smtp.auth=smtpauth
 mail.smtp.starttls.enable=smtpstarttls
+mail.smtp.ssl.protocols=TLSv1.2
 mail.user=smtpuser
 mail.password=smtppassword
 mail.sender=smtpsender
